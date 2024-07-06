@@ -1,0 +1,11 @@
+.card{
+
+    height:200px;
+    background-color:rgb(6, 6, 134);
+    margin-bottom: 40px;
+    margin-right:40px;
+    display: table-caption;
+    display: inline-flex;
+    margin-left: 32vh;
+    background-image: '/../assets/img/step.png'
+}

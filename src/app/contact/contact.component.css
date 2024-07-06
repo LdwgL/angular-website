@@ -1,0 +1,31 @@
+h2{
+    width:150px;
+    height:150px;
+    margin-left:40px;
+    font-size:40px;
+}
+
+input{
+    width:40%;
+    margin-bottom:50px;
+    margin-left:40px;
+}
+
+.email{
+    margin-left:40px;
+}
+
+textarea{
+    width:80%;
+    margin-bottom:30px;
+    margin-left:40px;
+}
+
+label{
+    margin-left:40px;
+}
+
+button{
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
